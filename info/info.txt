@@ -1,0 +1,33 @@
+variables -
+rules for variable name :
+- starting should be alphabet : 'a-z' & 'A-Z'.
+- do not use number at starting of variable name.
+- can only use _ underscore, should use in-between variable name, avoid using at start or end of variable name.
+- meaningful
+- python case sensitive :
+    - 'a' and 'A' are different.
+- variable names should not be a keywords.(if, else, while, etc)
+
+operators -
+1. Arithmetic Operators : + - * / % ** // 
+2. Logical Operators : and or not
+3. Comparision/Relational Operators : > < >= <= == !=
+4. Assignment Operators : += -= *= /=
+5. Bitwise Operator : >> <<
+6. Membership Operator : in, not in
+7. Identity Operator : is, is not
+
+datatypes -
+1. Integer
+2. Float
+3. String
+4. Boolean
+5. Complex
+6. List
+7. Set 
+8. Tuple 
+9. Dictionary
+
+keywords
+packages
+libraries
